@@ -30,8 +30,6 @@ Alpha System is a modern technology website designed to showcase software develo
 ---
 
 ## Project Structure
-## Project Structure
-
 ```
 Alpha-Systems/
 │── index.html
