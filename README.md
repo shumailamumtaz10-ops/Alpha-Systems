@@ -30,21 +30,14 @@ Alpha System is a modern technology website designed to showcase software develo
 ---
 
 ## Project Structure
-
 Alpha-System/
-
-├── index.html
-
-├── style.css
-
-├── images/
-
-│ ├── image.jfif
-
-│ └── video.mp4
-
-└── README.md
-
+│── index.html
+│── about.html
+│── services.html
+│── contact.html
+│── style.css
+│── image.jfif
+└── video.mp4
 ---
 
 ## Website Sections
