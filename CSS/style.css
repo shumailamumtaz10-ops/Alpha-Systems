@@ -38,7 +38,7 @@ nav ul li a{
 
 .hero{
     text-align:center;
-    padding:80px 10%;
+    padding:60px 10%;
     background:#1b4db3;
     color:white;
 }
@@ -76,15 +76,39 @@ button{
     gap:50px;
 }
 
-.section img{
+.image-section{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:80px 10%;
+    gap:50px;
+}
+
+.image-box{
+    width:50%;
+}
+
+.image-box img{
     width:100%;
     border-radius:10px;
 }
 
-.video{
+.video-section{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:80px 10%;
+    gap:50px;
+}
+
+.video-box{
     width:50%;
 }
 
+.video-box video{
+    width:100%;
+    border-radius:10px;
+}
 .text{
     width:50%;
 }
